@@ -188,10 +188,12 @@ gap: 24px;
   border-radius: 0px 0px 4px 4px
  
 }
+
 .team-info{
   padding: 32px 0;
+
 }
-.team-info .member-name{
+ .member-name{
   margin-bottom: 8px;
   color: var(--navy-blue);
   font-weight: 500;
